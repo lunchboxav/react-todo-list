@@ -25,6 +25,6 @@ module.exports = {
   // Where to output the final bundled code to
   output: {
     filename: 'app.js',
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, '../dist'),
   }
 };
